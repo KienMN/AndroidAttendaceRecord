@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AttendanceRecord</string>
+    <string name="cognito_identity_pool"></string>
+    <string name="default_collection_id">FaceCollectionID</string>
+    <string name="threshold">70F</string>
+</resources>
